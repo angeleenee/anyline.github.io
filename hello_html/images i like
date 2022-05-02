@@ -1,0 +1,4 @@
+https://images.unsplash.com/photo-1632019908099-99adef78ef9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzA4fHxhZXN0aGV0aWN8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+https://images.unsplash.com/photo-1496450681664-3df85efbd29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+body { background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm218batch2-ning-13.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&auto=format&ixlib=js-2.2.1&s=68dc6ac2f1d186cf20ac408c69549ad6");
+background-size: cover;}
